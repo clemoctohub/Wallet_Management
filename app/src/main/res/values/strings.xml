@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NapierProject1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="type_pick">
+        <item>--Choose Type--</item>
+        <item>Transport</item>
+        <item>Family</item>
+        <item>Sport</item>
+        <item>Gift</item>
+        <item>Restaurant</item>
+        <item>Shopping</item>
+        <item>Education</item>
+        <item>Housing</item>
+        <item>Health</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="type_pick2">
+        <item>--Choose Type--</item>
+        <item>Business</item>
+        <item>Pension</item>
+        <item>Dividend</item>
+        <item>Repayment</item>
+        <item>Salary</item>
+        <item>Saving money transfer</item>
+        <item>Other</item>
+    </string-array>
+</resources>
